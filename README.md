@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
 
-<p>Welcome to my page! </br> I'm Shreya, Software developer from <img src="images/flag.png" width="13"/> <b>Hyderabad, India</b>, currently living in <img src="images/usa.png" width="13"/> <b>Pittsburgh, Pennsylvania</b>. </p>
+<p>Welcome to my page! </br> I'm Shreya, Software Engineering student from Carnegie Mellon University <img src="images/usa.png" width="13"/> <b>Pittsburgh, Pennsylvania</b>. </p>
 
 <h3>Things I code with</h3>
 <p>

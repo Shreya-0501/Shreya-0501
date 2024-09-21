@@ -39,5 +39,3 @@
   <a href="https://github.com/Shreya-0501" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/shreya-kuchibhatla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Shreya-0501/Shreya-0501)
